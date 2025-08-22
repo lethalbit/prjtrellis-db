@@ -106,7 +106,7 @@ F87B1
 F5B1
 
 .config EXTREF.REFCK_PWDNB 0
-F4B1
+F3B1 F4B1 F5B1 F6B1
 
 
 # Fixed Connections
